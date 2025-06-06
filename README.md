@@ -1,4 +1,4 @@
-# Multi-Modal Few-Shot Learning for Fungi Classification with Prototypical Networks
+# Mushroom for Improvement: Prototypical Few-Shot Learning with Multimodal Fungal Features
 
 ## Abstract
 
