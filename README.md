@@ -1,7 +1,3 @@
-Here's a refined version of your README with improved clarity, consistency, and formatting, while preserving technical rigor and structure:
-
----
-
 # Multi-Modal Few-Shot Learning for Fungi Classification with Prototypical Networks
 
 ## Abstract
