@@ -1,0 +1,1 @@
+{"repos": [{"repoId": "timm/ViT-B-16-SigLIP", "repoType": "model", "commitHash": "41f575766f40e752fdd1383e9565b7f02388c1c4"}, {"repoId": "facebook/dinov2-base", "repoType": "model", "commitHash": "f9e44c814b77203eaa57a6bdbbd535f21ede1415"}, {"repoId": "imageomics/bioclip", "repoType": "model", "commitHash": "a1a779ecabfa8df4d842e36dafef45a1a4c77a09"}]}
