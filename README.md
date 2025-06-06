@@ -69,10 +69,10 @@ pip install -r requirements.txt
 | **Feature Type**                  | **Public Split** | **Private Split** |
 | --------------------------------- | ---------------- | ----------------- |
 | BioCLIP only (baseline)           | 0.33185          | 0.26649           |
-| Image (BioCLIP + SigLIP + DINOv2) | 0.30973          | 0.30012           |
-| Image + Text                      | 0.44690          | 0.44243           |
-| Image + Metadata                  | 0.46902          | 0.45795           |
-| **All (Image + Text + Metadata)** | **0.46460**      | **0.46183**       |
+| Image $\times$ 3 | 0.30973          | 0.30012           |
+| + Text                      | 0.44690          | 0.44243           |
+| + Metadata                  | 0.46902          | 0.45795           |
+| **All (I+T+M)** | **0.46460**      | **0.46183**       |
 
 ### Recall\@5 from Full Pipeline
 
